@@ -1,12 +1,34 @@
-👋 Hi, I'm Abhinav Kadam
-🎓 First-year B.Sc. Data Science student
-💡 Passionate about data analysis, visualization, and building cool tech projects
-📊 Currently diving deep into Power BI, SQL, and Python
-🧠 Learning every day and exploring real-world applications of data
-☕ On a mission to blend tech, creativity, and maybe a bit of coffee (café dreams coming soon!)
+# 👋 Hi there, I'm Abhinav Kadam!
 
-🔗 Check out my projects below — feel free to connect or collaborate!
-<!---
-abhianalyst/abhianalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a  B.Sc. Data Science student, passionate about learning, building, and exploring the world of tech and data.
+
+## 🚀 About Me
+
+- 💡 Currently learning **Power BI**, **SQL**, and **Python**
+- 📊 Interested in data analytics, visualization, and real-world projects
+- 🔧 Building small projects to sharpen my skills
+- ☕ Future café enthusiast — combining my love for tech & coffee
+- 🧠 Always curious and open to new ideas and collaborations
+
+## 🔧 Tech Stack
+
+- **Languages:** Python, SQL, HTML, CSS
+- **Tools:** Power BI, Excel, Git & GitHub, VS Code
+- **Databases:** MySQL, SQL*Plus
+
+## 📈 Current Goals
+
+- Build and publish Power BI dashboards
+- Learn advanced SQL concepts and database design
+- Collaborate on data analysis or web-based projects
+- Stay consistent with learning and health habits 🏋️
+
+## 📫 Let's Connect
+
+- LinkedIn  : www.linkedin.com/in/abhinavkadam47
+
+- Email: abhinavkadam852@gmail.com
+
+
+
+
